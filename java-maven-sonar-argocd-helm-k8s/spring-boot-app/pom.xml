@@ -52,7 +52,7 @@
     <build>
 
         <finalName>spring-boot-web</finalName>
-              <finalName>spring-boot-web</finalName>
+              <finalName>spring-gajanan-web</finalName>
 
         <plugins>
             <plugin>
